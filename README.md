@@ -1,0 +1,4 @@
+This study presents a novel predictive model based on machine learning which detects agriculture disturbances from climate change. Study Objectives are as follows:
+1.	To assess the effects of climate variability on yields of major food crops: Analysing crop production data by district, alongside data on climate and demographic variables, this study aims at identifying the major climatic variables associated with crop yields in three major crops.
+2.	To apply machine learning models to crop yield forecasting: Using machine learning techniques (i.e. Random Forest, Gradient Boosting), generate models to predict crop yield based on climatic and agricultural inputs.
+3.	To offer actionable insights for policymakers and farmers through identifying regions resilient to climate change and recommending adapted practices. 
